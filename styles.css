@@ -1,0 +1,52 @@
+input{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230px;
+height: 30px;
+border: solid black;
+font-size: 20px;
+
+}
+
+div{
+  text-align: center;
+
+
+}
+
+
+
+nav{
+  text-align: center;
+  color: black;
+  margin-bottom: 30px;
+}
+
+a {
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+  }
+
+
+h1{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+}
+
+
+body{
+  background-image: url(https://img.clipartfest.com/615e98a4c5f882d7b0b7e96db9f10a7f_free-lined-paper-backgrounds-cute-notebook-paper-clipart_1280-1007.jpeg);
+}
+
+
+p{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 35px;
+}
+
+span{
+  color: red;
+}
